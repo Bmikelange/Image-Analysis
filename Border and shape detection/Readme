@@ -16,3 +16,5 @@ the fileselector.h/cpp and image.h/cpp files are also totally dedicated to displ
 the matrice.h/cpp and convexe.h/cpp files contain data structures useful for processing
 
 
+This application need Qt Creator.
+
