@@ -1,0 +1,18 @@
+Barros Mikel-ange
+Beddalia Zacharia 
+Scouflaire Thomas
+
+The project was carried out under QT creator with the opencv library.
+to compile it you need to install QT Creator.
+
+In order to better understand the code, it is important to differentiate the interface from the processing code.
+
+All the functions and processing elements are stored in the Mainwindow.h class
+
+But only the interface functions are declared in the MainWindows.cpp file, all the processing functions are in the traitement.cpp file
+
+the fileselector.h/cpp and image.h/cpp files are also totally dedicated to display.
+
+the matrice.h/cpp and convexe.h/cpp files contain data structures useful for processing
+
+
